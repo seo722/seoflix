@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/seoflix/static/js/main.b83c54c5.js",
+    "index.html": "/seoflix/index.html",
+    "main.b83c54c5.js.map": "/seoflix/static/js/main.b83c54c5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b83c54c5.js"
+  ]
+}
